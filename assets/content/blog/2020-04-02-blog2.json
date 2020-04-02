@@ -2,5 +2,5 @@
   "date": "2020-04-02T21:46:21.266Z",
   "title": "My first blogpost",
   "description": "This is my first blogpost",
-  "body": "Here is a body text."
+  "body": "### Here is a body text.\n- 1\n- 2\n- 3"
 }
