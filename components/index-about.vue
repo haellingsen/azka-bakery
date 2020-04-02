@@ -5,8 +5,8 @@
         <AppTitle
           class="text-dark"
           color="dark"
-          cursive="Discover"
-          title="OUR STORY"
+          cursive="Bli kjent med"
+          title="VÅR HISTORE"
         />
 
         <AppIndexContent

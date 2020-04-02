@@ -1,19 +1,17 @@
 <template>
   <div class="mh-100">
-    <AppBanner cursive="delightful" title="products" class="mb-5" />
+    <AppBanner cursive="lekre" title="lefser" class="mb-5" />
 
     <OrderProductType
-      type="cake"
-      title="cakes &amp; cupcakes"
+      type="lefser"
+      title="lefser med lange tradisjoner"
       data-aos="flip-left"
     />
     <OrderProductType
-      type="pie"
-      title="pies &amp; tarts"
+      type="flatbrød"
+      title="flatbrød"
       data-aos="flip-right"
     />
-    <OrderProductType type="cookie" title="cookies" data-aos="flip-left" />
-    <OrderProductType type="bread" title="breads" data-aos="flip-right" />
   </div>
 </template>
 
