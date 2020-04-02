@@ -43,7 +43,10 @@ export default {
     "@/plugins/vue2-google-maps",
     { src: "@/plugins/aos", ssr: false }
   ],
-  modules: ["@nuxtjs/dotenv"],
+  modules: ["@nuxtjs/dotenv", "@nuxtjs/markdownit"],
+  markdownit: {
+    injected: true,
+  },
   build: {
     postcss: {
       preset: {
