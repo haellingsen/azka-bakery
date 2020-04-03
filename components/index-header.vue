@@ -6,11 +6,11 @@
       data-aos-duration="800"
       data-aos-delay="400"
     >
-      <AppTitle :index="true" cursive="welcome" title="the azka" />
+      <AppTitle :index="true" cursive="velkommen" title="hånes lefsebakeri" />
 
       <hr class="text-primary" />
 
-      <small class="h6 text-white">BAKERY &amp; PASTRY</small>
+      <small class="h6 text-white">LEFSER TIL HVERDAG &amp; FEST</small>
     </div>
   </div>
 </template>
@@ -27,7 +27,7 @@ export default {
 
 <style lang="scss" scoped>
 .container-fluid {
-  background: url("~assets/img/header.jpg") center center no-repeat;
+  background: url("~assets/img/header_orig.jpg") center center no-repeat;
   background-size: cover;
   padding-top: 7.5rem;
 

@@ -14,14 +14,14 @@
 <script>
 import AboutHistory from "@/components/about-history";
 import AboutQuote from "@/components/about-quote";
-import AboutToday from "@/components/about-today";
+// import AboutToday from "@/components/about-today";
 import AppBanner from "@/components/app-banner";
 
 export default {
   components: {
     AboutHistory,
     AboutQuote,
-    AboutToday,
+    // AboutToday,
     AppBanner
   }
 };

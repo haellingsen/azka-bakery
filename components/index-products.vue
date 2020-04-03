@@ -15,13 +15,13 @@
         <AppTitle
           class="text-dark"
           color="dark"
-          cursive="delightful"
-          title="products"
+          cursive="lekre"
+          title="bakverk"
         />
 
         <AppIndexContent
           content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, consequatur reprehenderit rem beatae accusantium possimus sunt cupiditate officiis quas tenetur?"
-          link="view all products"
+          link="Se alle produkter"
           to="order"
         />
       </div>

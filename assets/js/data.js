@@ -167,11 +167,39 @@ const products = [
   },
   {
     id: 22,
-    name: "Cream Cheese Biscuits",
+    name: "Sunnmørslefse",
+    price: 24.0,
+    description: "Tynn festlefse laget på kulturmelk, hvetemel, sukker, sirup og hjortetakk. Smøres med smør og sukker og brukes til kaffemat.",
+    type: "lefse"
+  },
+  {
+    id: 23,
+    name: "Rømmelefse og Nordlandslefse",
+    price: 24.0,
+    description: "Mellomtykk lefse som brukes egner seg godt til kaffimat med sukker, smør og evt. kanel.",
+    type: "lefse"
+  },
+  {
+    id: 24,
+    name: "Mørlefse",
     price: 24.0,
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     type: "bread"
-  }
+  },
+  {
+    id: 25,
+    name: "Telemarkskling",
+    price: 24.0,
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    type: "bread"
+  },
+  {
+    id: 26,
+    name: "Flatbrød",
+    price: 24.0,
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    type: "flatbrød"
+  },
 ];
 
 export { accounts, products };

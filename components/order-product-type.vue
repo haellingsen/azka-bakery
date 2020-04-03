@@ -26,7 +26,7 @@
             class="btn btn-outline-primary snipcart-add-item"
             data-item-url="https://azka.netlify.com/order"
           >
-            Buy
+            Kjøp
           </button>
         </div>
       </li>

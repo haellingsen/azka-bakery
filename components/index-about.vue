@@ -10,8 +10,8 @@
         />
 
         <AppIndexContent
-          content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, consequatur reprehenderit rem beatae accusantium possimus sunt cupiditate officiis quas tenetur?"
-          link="about us"
+          content="Med denne nettsiden har vi lyst å vise deg tre ting. For det første vårt rike sortement av tradisjonsbakst, hvem vi er og historien bak bakeriet, og sist men ikke minst hvor vi holder til, så du kan komme innom på en uforglemmelig smaksopplevelse mens du unner deg en kaffetår i vår koselige kaffestue."
+          link="om oss"
           to="about"
         />
       </div>

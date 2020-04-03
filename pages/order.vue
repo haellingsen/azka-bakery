@@ -1,9 +1,9 @@
 <template>
   <div class="mh-100">
-    <AppBanner cursive="lekre" title="lefser" class="mb-5" />
+    <AppBanner cursive="delightful" title="products" class="mb-5" />
 
     <OrderProductType
-      type="lefser"
+      type="lefse"
       title="lefser med lange tradisjoner"
       data-aos="flip-left"
     />
@@ -12,6 +12,7 @@
       title="flatbrød"
       data-aos="flip-right"
     />
+
   </div>
 </template>
 

@@ -13,7 +13,7 @@
         width="30"
       />
 
-      <span class="name text-light font-weight-bold">AZKA</span>
+      <span class="name text-light font-weight-bold">HÅNES LEFSEBAKERI</span>
     </router-link>
 
     <button
@@ -47,11 +47,12 @@ export default {
       menu: [
         {
           to: "/",
-          label: "Welcome"
+          label: "Velkommen"
         },
-        "Order",
-        "About",
-        "Contact"
+        "Bestill",
+        "Oppslag",
+        "Om oss",
+        "Kontakt"
       ]
     };
   },
